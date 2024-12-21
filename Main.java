@@ -7,6 +7,8 @@ class Main {
         // DayTwo.DayTwoFunction();
         // DayTwo.DayTwoFunctionTwo();
         // DayThree.FunctionOne();
-        DayThree.FunctionTwo();
+        // DayThree.FunctionTwo();
+        // DayFour.FunctionOne();
+        DayFour.FunctionTwo();
     }
 }
